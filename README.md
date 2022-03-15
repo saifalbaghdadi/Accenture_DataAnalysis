@@ -12,10 +12,10 @@ Findings:
 
 
 **CL_ALLERGY**  8 rows
-id
-severity
-name
+- id
+- severity
+- name
 
 **CL_ALLERGY_CUSTOMER**  37705 rows
-allergy_id
-customer_id
+- allergy_id
+- customer_id

@@ -7,7 +7,7 @@
       -order_creation_date
       -order_creation_time
       -customer_id
-      -ID
+      -order_id
 ### 3. Modification
-      -"id" changed to "ID"
+      -"id" changed to "order_id"
       - split column "creation_date" to 2 columns, which are "order_creation_date" and "order_creation_time"

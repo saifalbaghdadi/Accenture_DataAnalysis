@@ -19,3 +19,16 @@ Findings:
 **CL_ALLERGY_CUSTOMER**  37705 rows
 - allergy_id
 - customer_id
+
+**ORDER**  178724 rows
+- restaurant_id
+- order_creation_date
+- order_creation_time
+- customer_id
+- order_id
+
+**ORDERABLES**  2790 rows
+- item_price
+- restaurant_id
+- ID
+- item_name

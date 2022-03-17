@@ -5,18 +5,19 @@ Allergy_Customer table all values are unique
 Findings: 
 -some customers have more than one type of allergy
 
-1-allergy 	8755 customers
-2-allergy	8718 customers
-3-allergy	3838 customers
+ - allergy 	8755 customers
+ - allergy	8718 customers
+ - allergy	3838 customers
 
 
+**TABLES**
 
-**CL_ALLERGY**  8 rows
+**ALLERGY**  8 rows
 - id
 - severity
 - name
 
-**CL_ALLERGY_CUSTOMER**  37705 rows
+**ALLERGY_CUSTOMER**  37705 rows
 - allergy_id
 - customer_id
 
@@ -32,3 +33,9 @@ Findings:
 - restaurant_id
 - ID
 - item_name
+
+**ORDER_ITEM**  486031 rows
+ - order_id
+ - orderable_id
+ - amount
+  

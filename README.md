@@ -39,3 +39,12 @@ Findings:
  - orderable_id
  - amount
   
+**RESTAURANT**  425 rows
+ - id
+ - opening_hours
+ - city
+ - creation_date
+ - street
+ - email
+ - phone_number
+ - name

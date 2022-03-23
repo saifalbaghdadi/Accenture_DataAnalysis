@@ -5,7 +5,7 @@
 - Duration: `8 days`
 - Deadline: `23/03/2022 4:30 PM`
 - Team challenge : 5
-- Team :[`Havva Ebrhimi Pour`](https://www.linkedin.com/in/havva-ebrahimi-pour/), [`Saina Nuersulitan`](https://www.linkedin.com/in/saina-n-4b76b3139/), [`Saif Malkshahi`](https://www.linkedin.com/in/saifmalkshahi/),[`Lelo (Manou) Tokwaulu`](https://www.linkedin.com/in/lelotokwaulu/),[`Baki Guher`](https://linkedin.com/in/baki-guher)
+- Team :[`Havva Ebrahimi Pour`](https://www.linkedin.com/in/havva-ebrahimi-pour/), [`Saina Nuersulitan`](https://www.linkedin.com/in/saina-n-4b76b3139/), [`Saif Malkshahi`](https://www.linkedin.com/in/saifmalkshahi/),[`Lelo (Manou) Tokwaulu`](https://www.linkedin.com/in/lelotokwaulu/),[`Baki Guher`](https://linkedin.com/in/baki-guher)
 - Level: `Junior AI Developer`
 - Organization: `Becode  AI Bootcamp`
 

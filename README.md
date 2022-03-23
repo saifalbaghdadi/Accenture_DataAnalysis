@@ -5,8 +5,8 @@
 - Duration: `8 days`
 - Deadline: `23/03/2022 4:30 PM`
 - Team challenge : 5
-- Team : [`Havva Ebrhimi Pour`](https://www.linkedin.com/in/havva-ebrahimi-pour/), `Saina Nuersulitan`, [`Saif Malkshahi`](https://www.linkedin.com/in/saif-malkshahi/),[`Lelo (Manou) Tokwaulu`](https://www.linkedin.com/in/lelotokwaulu/),[`Baki Guher`](https://linkedin.com/in/baki-guher)
-- Level: `Junior Developer`
+- Team :[`Havva Ebrhimi Pour`](https://www.linkedin.com/in/havva-ebrahimi-pour/), -`Saina Nuersulitan`, [`Saif Malkshahi`](https://www.linkedin.com/in/saifmalkshahi/),[`Lelo (Manou) Tokwaulu`](https://www.linkedin.com/in/lelotokwaulu/),[`Baki Guher`](https://linkedin.com/in/baki-guher)
+- Level: `Junior AI Developer`
 - Organization: `Becode  AI Bootcamp`
 
 
@@ -49,7 +49,7 @@
 | ----------- | ----------- |
 | item_price | decimal |
 | restaurant_id | int |
-| ID | int |
+| id | int |
 | item_name | text |
 
 | ORDER_ITEM | 486031 rows  |
@@ -86,16 +86,41 @@ All files imported to an sql server on google cloud MS sql server for storage an
 Data types changed 
 
 **3-PROCESS**
-City attribute of 119 restaurant was missing, data vas not real so it left empty
-While transferring data to csv files some letters like ***é*** used in restaurant and orderableitem tables were lost, they were fixed, extra brackets removed, other typos fixed. Dublicate values removed from Allergy table 
+City attribute of 119 restaurant was missing, data was not real so it left empty.
+While transferring data to csv files some letters like ***é*** used(French words) in restaurant and orderable_item tables were lost, they were fixed.
+Extra brackets removed.
+Other typos fixed. 
+Dublicate values removed from Allergy table. 
 
 **4-ANALYZE**
 PowerBi used for analysis 
+Excel software used for data cleaning
 
 **5-SHARE**
 Power Bi file is included in this repo
 
 **6-ACT**
+
+## Team
+**Havva Ebrahimu Pour**
+>data cleaning 
+>dashboard design
+
+**Saina Nuersulitan**
+>prepared the dashboard for PowerBI
+>combined all the reports
+
+**Lelo Tokwaulu**
+>cleaned restaurant table
+>prepared sales reports 
+
+**Baki Guher**
+>arranged data storage and sql server
+>prepared allergy reports
+
+**Saif Malkshahi**
+>prepared presantation 
+>data cleaning
 
 
 

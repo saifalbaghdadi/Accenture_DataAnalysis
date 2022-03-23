@@ -25,61 +25,75 @@
 
 
 
-**DATA**
+### DATA
 
-**ALLERGY**  8 rows
-- id
-- severity
-- name
+| ALLERGY | 8 rows  |
+| ----------- | ----------- |
+| id | int |
+| severity | Text |
+| name | Text |
 
-**ALLERGY_CUSTOMER**  37705 rows
-- allergy_id
-- customer_id
 
-**ORDER**  178724 rows
-- restaurant_id
-- order_creation_date
-- order_creation_time
-- customer_id
-- order_id
+| ALLERGY_CUSTOMER | 37705 rows  |
+| ----------- | ----------- |
+| allergy_id | int |
+| customer_id | int |
 
-**ORDERABLES**  2790 rows
-- item_price
-- restaurant_id
-- ID
-- item_name
 
-**ORDER_ITEM**  486031 rows
- - order_id
- - orderable_id
- - amount
+| ORDER | 178724 rows  |
+| ----------- | ----------- |
+| restaurant_id | int |
+| order_creation_date | datetime |
+| customer_id | int |
+| order_id | int |
+
+
+| ORDERABLES | 2790 rows  |
+| ----------- | ----------- |
+| item_price | decimal |
+| restaurant_id | int |
+| ID | int |
+| item_name | text |
+
+| ORDER_ITEM | 486031 rows  |
+| ----------- | ----------- |
+| order_id | int |
+| orderable_id | int |
+| amount | int |
+
+
+| RESTAURANT | 425 rows  |
+| ----------- | ----------- |
+| id | int |
+| opening_hours | text |
+| city | text |
+| creation_date | datetime |
+| street | text |
+| email | text |
+| phone_number | text |
+| name | text |
+
   
-**RESTAURANT**  425 rows
- - id
- - opening_hours
- - city
- - creation_date
- - street
- - email
- - phone_number
- - name
 
 
 **1-ASK**
- - What is the connection between allergies and orders
- - Standard statistics about sales, changes, customers
+ - No specific question is given, we need to ask our questions
+ - Based on preliminary analysis of data we come up with: 
+   - What is the connection between allergies and orders
+   - Are there any changes on sales based on items
+   - 
 
 **2-PREPARE**
-Data is received in comma delimeted csv files
+Data is received in comma delimeted csv files, preliminary cleaning and simple typo fixing is done. 
 All files imported to an sql server on google cloud MS sql server for storage and sharing
 Data types changed 
 
 **3-PROCESS**
 City attribute of 119 restaurant was missing, data vas not real so it left empty
-While transferring data to csv files some letters like ***é*** used in restaurant and orderableitem tables were lost, they were fixed, extra brackets removed, other typos fixed.
+While transferring data to csv files some letters like ***é*** used in restaurant and orderableitem tables were lost, they were fixed, extra brackets removed, other typos fixed. Dublicate values removed from Allergy table 
 
 **4-ANALYZE**
-Power Bi used for analysis 
+PowerBi used for analysis 
 
 **5-SHARE**
 Power Bi file is included in this repo

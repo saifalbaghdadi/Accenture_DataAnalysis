@@ -1,4 +1,34 @@
 # Accenture_DA_pjct
+
+# Data Analysis on the Cloud
+
+- Repository: `challenge-collecting-data`
+- Type of Challenge: `Consolidation`
+- Duration: `8 days`
+- Deadline: `23/03/2022 4:30 PM`
+- Team challenge : 5
+- Developers : `Baki Guher` , `Moshood Owolabi`
+- Level: `Junior Developer`
+- Organization: `Becode  AI Bootcamp`
+
+
+## Mission objectives
+
+- Be able to connect to data stored in a cloud database.
+- Be able to use data visualization libraries `matplotlib` or `seaborn`) or data tools like PowerBI to explore the data.
+- Be able to clean a dataset for analysis.
+- Be able to use colors in visualizations correctly.
+- Be able to establish conclusions about a dataset.
+- Be able to find and answer creative questions about data.
+- Be able to think outside the box.
+- Be able to create a dashboard containg visualizations to bring business insights.
+
+
+
+
+
+
+
 Allergy table cleaned from duplicate values 
 Allergy_Customer table all values are unique 
 

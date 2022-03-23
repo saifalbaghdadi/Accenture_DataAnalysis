@@ -86,11 +86,15 @@ All files imported to an sql server on google cloud MS sql server for storage an
 Data types changed 
 
 **3-PROCESS**
-City attribute of 119 restaurant was missing, data vas not real so it left empty
-While transferring data to csv files some letters like ***é*** used in restaurant and orderableitem tables were lost, they were fixed, extra brackets removed, other typos fixed. Dublicate values removed from Allergy table 
+City attribute of 119 restaurant was missing, data was not real so it left empty.
+While transferring data to csv files some letters like ***é*** used(French words) in restaurant and orderable_item tables were lost, they were fixed.
+Extra brackets removed.
+Other typos fixed. 
+Dublicate values removed from Allergy table. 
 
 **4-ANALYZE**
 PowerBi used for analysis 
+Excel software used for data cleaning
 
 **5-SHARE**
 Power Bi file is included in this repo

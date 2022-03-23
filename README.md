@@ -152,26 +152,26 @@ Power Bi and presentation file is included in this repo
 
 ## Team
 **Havva Ebrahimu Pour**
- > data cleaning 
- > dashboard design
+ - data cleaning 
+ - dashboard design
 
 **Saina Nuersulitan**
- > created trello dashboard to track workflow
- > prepared the dashboard for PowerBI
- > combined all the reports
+ - created trello dashboard to track workflow
+ - prepared the dashboard for PowerBI
+ - combined all the reports
 
 **Lelo Tokwaulu**
- > cleaned restaurant table
- > prepared sales reports 
+ - cleaned restaurant table
+ - prepared sales reports 
+ - contributed to 'ReadMe' file redaction and client presentation
 
 **Baki Guher**
- > arranged data storage and sql server
- > prepared allergy reports
+ - arranged data storage and sql server
+ - prepared allergy reports
 
 **Saif Malkshahi**
- > prepared presantation 
- > data cleaning
-
+ - prepared presantation 
+ - data cleaning
 
 
 ## Installation & Usage

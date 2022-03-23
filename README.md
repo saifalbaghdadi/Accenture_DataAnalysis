@@ -129,7 +129,7 @@ Power Bi and presentation file is included in this repo
 ```
 
 │   README.md                     : This file
-|   acc_analysis.pbix             : PowerBi file 
+|   acc_analysis.pdf              : PowerBi pdf report 
 │___   
 |    original_csv_file              : Files received from customer
 │   │ ODL_ALLERGY_CUSTOMER.csv      : 
@@ -151,7 +151,7 @@ Power Bi and presentation file is included in this repo
 
 
 ## Installation & Usage
+ - Request Power BI report
  - Authorize your Ip address on google cloud to reach the data
- - Download the powerbi file in this repo
  - Open file in PowerBi desktop application
 

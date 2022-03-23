@@ -150,7 +150,7 @@ Power Bi file is included in this repo
 ```
 
 ## Team
-**Havva Ebrahimu Pour**
+**Havva Ebrahimi Pour**
 >data cleaning 
 >dashboard design
 

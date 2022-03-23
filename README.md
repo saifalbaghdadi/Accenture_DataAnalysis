@@ -2,12 +2,12 @@
 
 # Data Analysis on the Cloud
 
-- Repository: `challenge-collecting-data`
+- Repository: `challenge-data-analysis`
 - Type of Challenge: `Consolidation`
 - Duration: `8 days`
 - Deadline: `23/03/2022 4:30 PM`
 - Team challenge : 5
-- Developers : `Baki Guher` , `Moshood Owolabi`
+- Developers : `havva`, `saif`,`baki` ,`lelo`, `saina`, 
 - Level: `Junior Developer`
 - Organization: `Becode  AI Bootcamp`
 
@@ -25,22 +25,7 @@
 
 
 
-
-
-
-
-Allergy table cleaned from duplicate values 
-Allergy_Customer table all values are unique 
-
-Findings: 
--some customers have more than one type of allergy
-
- - allergy 	8755 customers
- - allergy	8718 customers
- - allergy	3838 customers
-
-
-**TABLES**
+**DATA**
 
 **ALLERGY**  8 rows
 - id
@@ -78,3 +63,27 @@ Findings:
  - email
  - phone_number
  - name
+
+
+**1-ASK**
+ - What is the connection between allergies and orders
+ - Standard statistics about sales, changes, customers
+
+**2-PREPARE**
+Data is received in comma delimeted csv files
+All files imported to an sql server on google cloud MS sql server for storage and sharing
+Data types changed 
+
+**3-PROCESS**
+City attribute of 119 restaurant was missing, data vas not real so it left empty
+While transferring data to csv files some letters like ***é*** used in restaurant and orderableitem tables were lost, they were fixed, extra brackets removed, other typos fixed.
+
+**4-ANALYZE**
+Power Bi used for analysis 
+
+**5-SHARE**
+Power Bi file is included in this repo
+
+**6-ACT**
+
+

@@ -1,5 +1,3 @@
-# Accenture_DA_pjct
-
 # Data Analysis on the Cloud
 
 - Repository: `challenge-data-analysis`
@@ -22,7 +20,6 @@
 - Be able to find and answer creative questions about data.
 - Be able to think outside the box.
 - Be able to create a dashboard containg visualizations to bring business insights.
-
 
 
 ### DATA
@@ -100,4 +97,34 @@ Power Bi file is included in this repo
 
 **6-ACT**
 
+
+
+## Repo Architecture 
+
+```
+
+│   README.md                     : This file
+│___   
+|    original_csv_file              : FIles received from customer
+│   │ ODL_ALLERGY_CUSTOMER.csv      : 
+│   │ ODL_ALLERGY.csv               : 
+│   │ ODL_ORDER.csv                 : 
+│   | ODL_ORDERABLES.csv            : 
+│   | ODL_ORDER_ITEM.csv            : 
+│   | ODL_RESTAURANT.csv            : 
+│___  
+|    cleaned_csv_files          : Cleaned files before importing to sql server
+│   │ ALLERGY_CUSTOMER.csv      : 
+│   │ ALLERGY.csv               : 
+│   │ ORDER.csv                 : 
+│   | ORDERABLES.csv            : 
+│   | ORDER_ITEM.csv            : 
+│   | RESTAURANT.csv            : 
+     
+```
+
+## Installation & Usage
+Authorize your Ip address on google cloud to reach the data
+Download the powerbi file in this repo
+Open file vie PowerBi desktop application
 

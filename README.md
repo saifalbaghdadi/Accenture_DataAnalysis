@@ -124,6 +124,29 @@ Power Bi file is included in this repo
      
 ```
 
+## Team
+**Havva Ebrahimu Pour**
+>data cleaning 
+>dashboard design
+
+**Saina Nuersulitan**
+>prepared the dashboard for PowerBI
+>combined all the reports
+
+**Lelo Tokwaulu**
+>cleaned restaurant table
+>prepared sales reports 
+
+**Baki Guher**
+>arranged data storage and sql server
+>prepared allergy reports
+
+**Saif Malkshahi**
+>prepared presantation 
+>data cleaning
+
+
+
 ## Installation & Usage
  - Authorize your Ip address on google cloud to reach the data
  - Download the powerbi file in this repo

@@ -130,7 +130,6 @@ Power Bi and presentation file is included in this repo
 
 │   README.md                     : This file
 |   acc_analysis.pbix             : PowerBi file 
-|   accentura.pptx                : Presentation
 │___   
 |    original_csv_file              : Files received from customer
 │   │ ODL_ALLERGY_CUSTOMER.csv      : 

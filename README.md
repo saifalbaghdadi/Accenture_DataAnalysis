@@ -101,6 +101,27 @@ Power Bi file is included in this repo
 
 **6-ACT**
 
+## Team
+**Havva Ebrahimu Pour**
+>data cleaning 
+>dashboard design
+
+**Saina Nuersulitan**
+>prepared the dashboard for PowerBI
+>combined all the reports
+
+**Lelo Tokwaulu**
+>cleaned restaurant table
+>prepared sales reports 
+
+**Baki Guher**
+>arranged data storage and sql server
+>prepared allergy reports
+
+**Saif Malkshahi**
+>prepared presantation 
+>data cleaning
+
 
 
 ## Repo Architecture 

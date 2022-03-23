@@ -5,7 +5,7 @@
 - Duration: `8 days`
 - Deadline: `23/03/2022 4:30 PM`
 - Team challenge : 5
-- Developers : `havva`, `saif`,`baki` ,`lelo`, `saina`, 
+- Team : [`Havva Ebrhimi Pour`](https://www.linkedin.com/in/havva-ebrahimi-pour/), `Saina Nuersulitan`, [`Saif Malkshahi`](https://www.linkedin.com/in/saif-malkshahi/),[`Lelo (Manou) Tokwaulu`](https://www.linkedin.com/in/lelotokwaulu/),[`Baki Guher`](https://linkedin.com/in/baki-guher)
 - Level: `Junior Developer`
 - Organization: `Becode  AI Bootcamp`
 
@@ -104,8 +104,9 @@ Power Bi file is included in this repo
 ```
 
 │   README.md                     : This file
+|   Acc_analysis.pbix             : PowerBi file 
 │___   
-|    original_csv_file              : FIles received from customer
+|    original_csv_file              : Files received from customer
 │   │ ODL_ALLERGY_CUSTOMER.csv      : 
 │   │ ODL_ALLERGY.csv               : 
 │   │ ODL_ORDER.csv                 : 
@@ -124,7 +125,7 @@ Power Bi file is included in this repo
 ```
 
 ## Installation & Usage
-Authorize your Ip address on google cloud to reach the data
-Download the powerbi file in this repo
-Open file vie PowerBi desktop application
+ - Authorize your Ip address on google cloud to reach the data
+ - Download the powerbi file in this repo
+ - Open file in PowerBi desktop application
 

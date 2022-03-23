@@ -49,7 +49,7 @@
 | ----------- | ----------- |
 | item_price | decimal |
 | restaurant_id | int |
-| ID | int |
+| id | int |
 | item_name | text |
 
 | ORDER_ITEM | 486031 rows  |

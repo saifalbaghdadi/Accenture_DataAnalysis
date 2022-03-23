@@ -5,7 +5,7 @@
 - Duration: `8 days`
 - Deadline: `23/03/2022 4:30 PM`
 - Team challenge : 5
-- Team :[`Havva Ebrhimi Pour`](https://www.linkedin.com/in/havva-ebrahimi-pour/), -`Saina Nuersulitan`, [`Saif Malkshahi`](https://www.linkedin.com/in/saifmalkshahi/),[`Lelo (Manou) Tokwaulu`](https://www.linkedin.com/in/lelotokwaulu/),[`Baki Guher`](https://linkedin.com/in/baki-guher)
+- Team :[`Havva Ebrhimi Pour`](https://www.linkedin.com/in/havva-ebrahimi-pour/), [`Saina Nuersulitan`](https://www.linkedin.com/in/saina-n-4b76b3139/), [`Saif Malkshahi`](https://www.linkedin.com/in/saifmalkshahi/),[`Lelo (Manou) Tokwaulu`](https://www.linkedin.com/in/lelotokwaulu/),[`Baki Guher`](https://linkedin.com/in/baki-guher)
 - Level: `Junior AI Developer`
 - Organization: `Becode  AI Bootcamp`
 
@@ -76,9 +76,9 @@
 **1-ASK**
  - No specific question is given, we need to ask our questions
  - Based on preliminary analysis of data we come up with: 
+   - Standard sales and item reports with filtering
    - What is the connection between allergies and orders
-   - Are there any changes on sales based on items
-   - 
+   - Any insights from data
 
 **2-PREPARE**
 Data is received in comma delimeted csv files, preliminary cleaning and simple typo fixing is done. 
@@ -97,30 +97,30 @@ PowerBi used for analysis
 Excel software used for data cleaning
 
 **5-SHARE**
-Power Bi file is included in this repo
+Power Bi and presentation file is included in this repo
 
-**6-ACT**
 
 ## Team
 **Havva Ebrahimu Pour**
->data cleaning 
->dashboard design
+> data cleaning 
+> dashboard design
 
 **Saina Nuersulitan**
->prepared the dashboard for PowerBI
->combined all the reports
+> created trello dashboard to track workflow
+> prepared the dashboard for PowerBI
+> combined all the reports
 
 **Lelo Tokwaulu**
->cleaned restaurant table
->prepared sales reports 
+> cleaned restaurant table
+> prepared sales reports 
 
 **Baki Guher**
->arranged data storage and sql server
->prepared allergy reports
+ > arranged data storage and sql server
+ > prepared allergy reports
 
 **Saif Malkshahi**
->prepared presantation 
->data cleaning
+ > prepared presentation 
+ > data cleaning
 
 
 
@@ -129,7 +129,8 @@ Power Bi file is included in this repo
 ```
 
 │   README.md                     : This file
-|   Acc_analysis.pbix             : PowerBi file 
+|   acc_analysis.pbix             : PowerBi file 
+|   accentura.pptx                : Presentation
 │___   
 |    original_csv_file              : Files received from customer
 │   │ ODL_ALLERGY_CUSTOMER.csv      : 
@@ -151,24 +152,25 @@ Power Bi file is included in this repo
 
 ## Team
 **Havva Ebrahimu Pour**
->data cleaning 
->dashboard design
+ > data cleaning 
+ > dashboard design
 
 **Saina Nuersulitan**
->prepared the dashboard for PowerBI
->combined all the reports
+ > created trello dashboard to track workflow
+ > prepared the dashboard for PowerBI
+ > combined all the reports
 
 **Lelo Tokwaulu**
->cleaned restaurant table
->prepared sales reports 
+ > cleaned restaurant table
+ > prepared sales reports 
 
 **Baki Guher**
->arranged data storage and sql server
->prepared allergy reports
+ > arranged data storage and sql server
+ > prepared allergy reports
 
 **Saif Malkshahi**
->prepared presantation 
->data cleaning
+ > prepared presantation 
+ > data cleaning
 
 
 

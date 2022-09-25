@@ -155,3 +155,4 @@ Power Bi and presentation file is included in this repo
  - Authorize your Ip address on google cloud to reach the data
  - Open file in PowerBi desktop application
 
+

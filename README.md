@@ -154,3 +154,4 @@ Power Bi and presentation file is included in this repo
  - Request Power BI report
  - Authorize your Ip address on google cloud to reach the data
  - Open file in PowerBi desktop application
+   
